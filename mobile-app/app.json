@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Farm Direct",
+    "slug": "farm-direct",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#f8f7f1"
+    },
+    "android": {
+      "package": "com.portfolio.farmdirect"
+    }
+  }
+}
